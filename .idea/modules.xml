@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Painter App.iml" filepath="$PROJECT_DIR$/Painter App.iml" group="Painter App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Painter App/app" />
+      <module fileurl="file://$PROJECT_DIR$/drawingLibrary/drawingLibrary.iml" filepath="$PROJECT_DIR$/drawingLibrary/drawingLibrary.iml" group="Painter App/drawingLibrary" />
+    </modules>
+  </component>
+</project>
